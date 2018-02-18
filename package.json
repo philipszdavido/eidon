@@ -1,0 +1,12 @@
+{
+    "name": "eidon",
+    "version": "1.0.0",
+    "description": "Runs single/multiple commands simultaneously using Node.js spawn.",
+    "main": "lib/eidon.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Chidume Nnamdi <kurtwanger40@gmail.com>",
+    "license": "ISC"
+}
