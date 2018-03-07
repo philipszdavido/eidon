@@ -1,6 +1,6 @@
 {
     "name": "eidon",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Runs single/multiple commands simultaneously using Node.js spawn.",
     "main": "lib/eidon.js",
     "scripts": {
